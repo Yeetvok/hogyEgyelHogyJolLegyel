@@ -1,0 +1,13 @@
+123;Mikor szoktál felkelni hétvégente?;Általában koránkelő vagyok, legkésőbb 7-kor már ébren vagyok.;Korán kelni? Soha! Ha lehet, akkor délnél előbb fel sem kelek.;Rosszul alszom, ezért mindig addig alszom, amíg csak lehet.
+321;Szoktál esténként nassolni?;Egy jó film vagy sorozat, egy pizza, chips vagy pattogatott kukorica… ez az ideális esti program. :);Igen, de ha lehet, akkor aszalt gyümölcsöt vagy olajos magvakat.;Este sosem. Vigyázok az alakomra!
+123;Mennyit sportolsz?;A sport az életem. Minden nap van valami: edzés, futás, aerobic…;Heti 3 alkalommal biztos. Szeretek mozogni.;Biztos, hogy nem. Lustaság fél egészség!
+123;Mi a kedvenc sportod?;Csapatjátékok leginkább;Az egyszemélyes sportok híve vagyok;Sport? Mi is az?
+213;Mi az, amit a legszívesebben megennél most?;Egy jó steak vagy oldalas, ha lehet hasábbal és egy kis salátával.;Egy lazacfilé salátával és dresszinggel jólesne most.;Elég lesz egy csokitorta is, köszönöm!
+321;Milyen táplálékkiegészítőket szedsz rendszeresen?;Az meg mi?;Vitaminokat, abból is inkább C-, D vitamin.;Pro- és prebiotikumokat, vitaminokat és proteint, ha edzek.
+321;Mennyi húst eszel egy héten?;Legalább 4-5 kg-ot biztosan. Kell az erő.;Általában 2 kg, vagy annál kevesebb.;Nem eszem húst, vegetáriánus vagyok.
+132;Próbáltad már a húshelyettesítő termékeket?;Igen, nekem ízlett.;Nem, minek? Ha húst akarok enni, akkor azt eszem.;Igen, de nem az én világom.
+321;Mennyi tejterméket fogyasztasz?;Minden, ami tej, sajt, az jöhet. Bármennyi, bármikor.;Csak akkor, ha megkívánom. Amúgy nem vagyok nagy sajtos.;Nem eszem ilyesmit. Ha igen, az is inkább növényi.
+123;Tudod mit jelent a mikrobiom?;A velünk élő mikróbák, ezek egy része a bélrendszerben található jótékony baktériumok.;A bélben található rossz baktériumok.;Nem tudom mi az, de nem is szeretem ezeket a latin szavas dolgokat.
+231;Mennyi vizet iszol egy nap?;1,5 L lecsúszik nagy nehezen.;Inkább Cola, Fanta, Hell. Ez számít?;2-2,5 L napi szinten megvan.
+312;Mennyi a képernyőidőd a telefonodon egy hét alatt?;50 óra fölött;25 óra vagy alatta;50 és 25 óra között
+123;Hogy alszol el?;Lefekvés előtt olvasok egy könyvet vagy beszélgetek a szüleimmel/tesómmal, alváskor sötét a szobám.;Tévézek vagy zenét hallgatok előtte.;Tévére, zenére alszom el és (ha van) éjjeli fénnyel alszom.
